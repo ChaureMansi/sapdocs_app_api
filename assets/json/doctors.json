@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Dr. John Smith",
+    "specialization": "Cardiology",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/3774/3774299.png",
+    "rating": 4.5
+  },
+  {
+    "name": "Dr. Jane Doe",
+    "specialization": "Pediatrics",
+    "imageUrl": "https://img.lovepik.com/element/45000/4103.png_860.png",
+    "rating": 4.8
+  },
+  {
+    "name": "Dr. Jane Doe",
+    "specialization": "Pediatrics",
+    "imageUrl": "https://img.lovepik.com/element/45000/4103.png_860.png",
+    "rating": 4.8
+  },
+  {
+    "name": "Dr. Martin Rodriguez",
+    "specialization": "Dermatology",
+    "imageUrl": "https://png.pngtree.com/png-clipart/20230918/ourmid/pngtree-photo-men-doctor-physician-chest-smiling-png-image_10132895.png",
+    "rating": 4.9
+  },
+  {
+    "name": "Dr. Ananya Dube",
+    "specialization": "Neurology",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/027/395/212/non_2x/doctor-lady-friendly-smiling-arms-crossed-png.png",
+    "rating": 4.6
+  },
+  {
+    "name": "Dr. John Leo",
+    "specialization": "Dermatology",
+    "imageUrl": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3M5MC1wYS0xODM4LWpvYjE3NzNfMi5wbmc.png",
+    "rating": 4.9
+  }
+]
